@@ -12,7 +12,7 @@ My name is Christian Dorado, I am from Bilbao and I love learning new skills. Ha
 > Ex-Data Scientist at [Diatech Diabetes](https://diatechdiabetes.com?ref=github-sopechris)  
 > Currently R&D Engineer at [Zylk](https://www.zylk.net)
 
-##### My Experience:
+#### My Experience:
 
 - 🧬 **Healthcare, Bio & MedTech**
 - ⚙️ Daily stack: `.py`, `.java`, `.sql`, `.ipynb` & Kafka, Flink, Docker, IaC
