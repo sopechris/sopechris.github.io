@@ -11,9 +11,6 @@ title-on-all-pages: true
 
 navbar-links:
   About Me: "aboutme"
-  CV: "cv"
-  Projects: "projects"
-  Contact: "contact"
 
 ################
 # --- Avatar --- #
